@@ -14,4 +14,4 @@ IDEs
 
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IlyuhaShishka&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
